@@ -1,4 +1,4 @@
-package user.domain.model
+package com.harshdev.chirp.model
 
 import java.util.UUID
 
